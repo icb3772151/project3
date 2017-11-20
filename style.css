@@ -1,0 +1,17 @@
+
+
+body{
+
+  background-color: navy;
+  text-align: center;
+  color: greenyellow;
+  font-family: "Arial", sans-serif;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+
+}
+
+btn btn-info {
+  color: aqua;
+}
