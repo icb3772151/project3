@@ -13,7 +13,7 @@
     ]
 
   window.onload = newQuote;
-window.onload = tweetQuote;
+//window.onload = tweetQuote;
 
 function newQuote() {
   
